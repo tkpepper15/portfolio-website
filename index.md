@@ -4,7 +4,17 @@ layout: default
 
 ![Banner](assets/banner.png)
 
-Millions of people around the world suffer from neuro-visual disorders—diseases pertaining to hindered nerves in and around the eye. Prevalent conditions in <a href="https://en.wikipedia.org/wiki/Neuro-ophthalmology" target="_blank">neuro-ophthalmology</a> are described below:
+ <a href="https://en.wikipedia.org/wiki/Neuro-ophthalmology" target="_blank">Neuro-ophthalmology</a> is a specialized field of medicine that deals with disorders affecting the visual system, particularly those related to the brain and the nerves that control eye movements. 
+
+<div class="sketchfab-embed-wrapper" style="text-align: center;">
+    <iframe title="Optic nerve and Brain" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/616af990018a4474bbda0aabb55ac2d7/embed"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/optic-nerve-and-brain-616af990018a4474bbda0aabb55ac2d7?utm_medium=embed&utm_campaign=share-popup&utm_content=616af990018a4474bbda0aabb55ac2d7" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"></a>
+        by <a href="https://sketchfab.com/qkrej96?utm_medium=embed&utm_campaign=share-popup&utm_content=616af990018a4474bbda0aabb55ac2d7" target="_blank" rel="nofollow" style="">EUNJUNG PARK</a>
+    </p>
+</div>
+
+Unfortunately, millions of people around the world suffer from neuro-visual disorders. Prevalent conditions are described below:
 
 - [Cranial Nerve Abnormalities](#cranial-nerve-abnormalities)
 - [Double Vision](#double-vision)
@@ -18,8 +28,6 @@ Millions of people around the world suffer from neuro-visual disorders—disease
 - [Papilledema](#papilledema)
 - [Pseudotumor Cerebri](#pseudotumor-cerebri)
 - [Thyroid Eye Disease](#thyroid-eye-disease)
-- [Vision Disorder](#vision-disorder)
-- [Vision Loss](#vision-loss)
 
 ## Cranial Nerve Abnormalities
 Cranial nerve abnormalities affecting the eye muscles can result in strabismus, ptosis (drooping eyelid), or abnormal pupil responses, depending on the specific nerve affected. These abnormalities may also lead to difficulties in controlling eye movements and coordinating binocular vision.
@@ -29,7 +37,11 @@ Most commonly, the abducens nerve, also referred to as cranial nerve six (CN VI)
 <img src="assets/6th-nerve-palsy.jpg" alt="6th-nerve-palsy" width="300" height="300">
 
 ## Double Vision
-Double vision can be caused by various factors such as muscle weakness, nerve damage, or eye misalignment, and treatment often involves addressing the underlying cause. It can significantly impact daily activities such as reading, driving, or watching television.
+Double vision, also known as diplopia, can be caused by various factors such as muscle weakness, nerve damage, or eye misalignment. Treatment often involves addressing the underlying cause which could include diabetes, Graves' disease, etc. 
+
+It can significantly impact daily activities such as reading, driving, or watching television. Also, binocular double vision affects both eyes whereas monocular double vision impacts both.
+
+<img src="assets/double-vision.jpeg" alt="double-vision" width="300" height="300">
 
 ## Giant Cell Arteritis
 Giant cell arteritis primarily affects individuals over 50 and is characterized by inflammation of medium and large arteries, including those supplying the eyes and brain. Prompt diagnosis and treatment are crucial to prevent serious complications such as vision loss or stroke.
@@ -61,12 +73,7 @@ Pseudotumor cerebri is often associated with symptoms such as pulsatile tinnitus
 ## Thyroid Eye Disease
 Thyroid eye disease is often accompanied by systemic symptoms such as weight loss, palpitations, and heat intolerance due to its association with thyroid dysfunction. In severe cases, it can lead to proptosis (bulging eyes), double vision, and vision loss if not managed promptly.
 
-## Vision Disorder
-Vision disorders encompass a wide range of conditions, including retinal diseases, optic nerve disorders, and visual processing abnormalities, each requiring specific diagnostic and treatment strategies. They can affect visual acuity, color perception, and peripheral vision.
-
-## Vision Loss
-Vision loss can have a significant impact on daily life, requiring adaptations and support services to help individuals maintain independence and quality of life. Causes of vision loss vary widely and may include age-related macular degeneration, glaucoma, diabetic retinopathy, or retinal detachment.
-
 ### Sources
+- <a href="https://binettereyecentre.com.au/" target="_blank">Binetter Eye Centre</a>
 - <a href="https://my.clevelandclinic.org/health/diseases" target="_blank">Cleveland Clinic</a>
 - <a href="https://www.nei.nih.gov/" target="_blank">National Eye Institute (NEI)</a>

@@ -173,3 +173,22 @@ pre > code {
   padding: 0 1rem;
 }
 
+.accordion-item {
+  border-bottom: 1px solid #ccc;
+}
+
+.accordion-title {
+  background-color: #f4f4f4;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.accordion-content {
+  display: none;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

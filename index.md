@@ -24,6 +24,8 @@ Millions of people around the world suffer from neuro-visual disorders—disease
 ## Cranial Nerve Abnormalities
 Cranial nerve abnormalities affecting the eye muscles can result in strabismus, ptosis (drooping eyelid), or abnormal pupil responses, depending on the specific nerve affected. These abnormalities may also lead to difficulties in controlling eye movements and coordinating binocular vision.
 
+<img src="assets/6th-nerve-palsy.jpg" alt="6th-nerve-palsy" width="300" height="300">
+
 ## Double Vision
 Double vision can be caused by various factors such as muscle weakness, nerve damage, or eye misalignment, and treatment often involves addressing the underlying cause. It can significantly impact daily activities such as reading, driving, or watching television.
 
@@ -62,3 +64,6 @@ Vision disorders encompass a wide range of conditions, including retinal disease
 
 ## Vision Loss
 Vision loss can have a significant impact on daily life, requiring adaptations and support services to help individuals maintain independence and quality of life. Causes of vision loss vary widely and may include age-related macular degeneration, glaucoma, diabetic retinopathy, or retinal detachment.
+
+### Sources
+<a href="https://my.clevelandclinic.org/health/diseases" target="_blank">Cleveland Clinic</a>

@@ -4,7 +4,22 @@ layout: default
 
 ![Banner](assets/banner.png)
 
-Millions of people around the world suffer from neuro-visual disorders (<a href="https://en.wikipedia.org/wiki/Neuro-ophthalmology" target="_blank">neuro-ophthalmology</a>)—diseases pertaining to hindered nerves in and around the eye. A few of the most prevalent conditions are described below:
+Millions of people around the world suffer from neuro-visual disorders—diseases pertaining to hindered nerves in and around the eye. Prevalent conditions in <a href="https://en.wikipedia.org/wiki/Neuro-ophthalmology" target="_blank">neuro-ophthalmology</a> are described below:
+
+- [Cranial Nerve Abnormalities](#cranial-nerve-abnormalities)
+- [Double Vision](#double-vision)
+- [Giant Cell Arteritis](#giant-cell-arteritis)
+- [Idiopathic Intracranial Hypertension](#idiopathic-intracranial-hypertension)
+- [Ischemic Optic Neuropathy](#ischemic-optic-neuropathy)
+- [Migraine](#migraine)
+- [Myasthenia Gravis](#myasthenia-gravis)
+- [Nystagmus](#nystagmus)
+- [Optic Neuritis](#optic-neuritis)
+- [Papilledema](#papilledema)
+- [Pseudotumor Cerebri](#pseudotumor-cerebri)
+- [Thyroid Eye Disease](#thyroid-eye-disease)
+- [Vision Disorder](#vision-disorder)
+- [Vision Loss](#vision-loss)
 
 ## Cranial Nerve Abnormalities
 Cranial nerve abnormalities affecting the eye muscles can result in strabismus, ptosis (drooping eyelid), or abnormal pupil responses, depending on the specific nerve affected. These abnormalities may also lead to difficulties in controlling eye movements and coordinating binocular vision.

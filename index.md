@@ -24,6 +24,8 @@ Millions of people around the world suffer from neuro-visual disorders—disease
 ## Cranial Nerve Abnormalities
 Cranial nerve abnormalities affecting the eye muscles can result in strabismus, ptosis (drooping eyelid), or abnormal pupil responses, depending on the specific nerve affected. These abnormalities may also lead to difficulties in controlling eye movements and coordinating binocular vision.
 
+Most commonly, the abducens nerve, also referred to as cranial nerve six (CN VI) is impinged. It plays a role in controlling the eye's extraocular motor functions, alongside the oculomotor nerve (CN III) and the trochlear nerve (CN IV). Thus, it's malfunction can result in hindered eye movement.
+
 <img src="assets/6th-nerve-palsy.jpg" alt="6th-nerve-palsy" width="300" height="300">
 
 ## Double Vision
@@ -66,4 +68,5 @@ Vision disorders encompass a wide range of conditions, including retinal disease
 Vision loss can have a significant impact on daily life, requiring adaptations and support services to help individuals maintain independence and quality of life. Causes of vision loss vary widely and may include age-related macular degeneration, glaucoma, diabetic retinopathy, or retinal detachment.
 
 ### Sources
-<a href="https://my.clevelandclinic.org/health/diseases" target="_blank">Cleveland Clinic</a>
+- <a href="https://my.clevelandclinic.org/health/diseases" target="_blank">Cleveland Clinic</a>
+- <a href="https://www.nei.nih.gov/" target="_blank">National Eye Institute (NEI)</a>

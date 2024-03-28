@@ -1,7 +1,7 @@
 # Site settings
-title: neuro
-tag_text: neuro
-description: neuro
+title: neuro-ophthalmology guide
+tag_text: neuro-ophthalmology guide
+description: Millions of people around the world suffer from neuro-visual disorders—diseases pertaining to hindered nerves in and around the eye. Prevalent conditions in neuro-ophthalmology are described.
 # url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:

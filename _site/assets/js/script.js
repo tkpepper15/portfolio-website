@@ -1,11 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const accordionTitles = document.querySelectorAll('.accordion-title[data-toggle="accordion-content"]');
-  
-    accordionTitles.forEach(title => {
-      title.addEventListener('click', function() {
-        const content = this.nextElementSibling;
-        content.style.display = content.style.display === 'block' ? 'none' : 'block';
-      });
+  const gridItems = document.querySelectorAll('.grid-item');
+
+  gridItems.forEach(item => {
+    item.addEventListener('click', function() {
+      const url = this.dataset.url;
+      if (url) {
+        window.open(url, '_blank');
+      }
     });
   });
-  
+});

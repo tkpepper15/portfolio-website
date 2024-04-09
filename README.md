@@ -1,4 +1,4 @@
-Built for a neuroscience midterm
+Built for my portfolio
 
 ## Theme
 

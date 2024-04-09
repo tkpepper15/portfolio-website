@@ -1,24 +1,20 @@
-
+/* General styles */
 html {
   font: 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-}
-
-@media (min-width: 30rem) {
-  html {
-    font-size: 18px;
-  }
+  text-align: center; /* Center-align text */
 }
 
 body {
-  margin: 2rem 0 5rem;
+  margin: 0;
+  padding: 0;
   color: #333;
-}
-
-@media (min-width: 30rem) {
-  body {
-    margin-top: 5rem;
-  }
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  display: flex;
+  justify-content: center; /* Center-align horizontally */
+  align-items: center; /* Center-align vertically */
+  min-height: 100vh;
 }
 
 a {
@@ -32,7 +28,6 @@ a:hover, a:focus {
 
 #footer a {
   color: #808080; /* From http://clrs.cc */
-  text-decoration: none;
 }
 
 #footer a:hover, a:focus {
@@ -41,16 +36,14 @@ a:hover, a:focus {
 
 small {
   color: #B0B0B0;
-  text-decoration: none;
 }
 
+/* Heading styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  line-height: 1;
+  margin: 0 0 0.5rem;
   color: #111;
   text-rendering: optimizeLegibility;
+  text-align: center; /* Center-align headings */
 }
 
 h1 {
@@ -58,47 +51,27 @@ h1 {
   margin-bottom: 1rem;
 }
 
-@media (min-width: 30rem) {
-  h1 {
-    font-size: 2.5rem;
-    margin-bottom: 3rem;
-  }
-}
-
-h1 a {
-  color: inherit;
-}
-
 h2 {
-  margin-top: 2rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin-bottom: 0.75rem;
 }
 
-@media (min-width: 30rem) {
-  h2 {
-    margin-top: 2.5rem;
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-  }
-}
-
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 
 h4, h5, h6 {
-  margin-top: 1.5rem;
   font-size: 1rem;
   font-style: italic;
   font-weight: bold;
 }
 
+/* Paragraph and list styles */
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: left; /* Left-align text within these elements */
 }
 
 ul, ol {
@@ -129,62 +102,24 @@ hr {
   top: -1px;
 }
 
+/* Image and grid styles */
 .container img, .container iframe {
   max-width: 100%;
-}
-
-.container img {
-  margin: 0 auto;
   display: block;
+  margin: 0 auto; /* Center-align images and iframes */
 }
 
-table {
-  width: 100%;
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-}
-
-td, th {
-  padding: .25rem .5rem;
-  border: 1px solid #ccc;
-}
-
-pre, code {
-  font-family: inherit;
-  background-color: #eee;
-}
-
-pre {
-  padding: .5rem 1rem;
-  font-size: 0.8rem;
-}
-
-code {
-  padding: .1rem .25rem;
-}
-
-pre > code {
-  padding: 0;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
+/* Grid styles */
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 20px 50px;
+  grid-gap: 20px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
+  color: white;
   max-width: min-content;
+  background-color: #333;
 }
 
 .grid-item {
@@ -218,4 +153,32 @@ body {
 
 .grid-item:hover .overlay {
   opacity: 1;
+}
+
+/* Media Queries */
+@media (min-width: 30rem) {
+  html {
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px 50px;
+    padding: 20px;
+    max-width: min-content;
+  }
+
+  .grid-item {
+    gap: 20px;
+  }
 }

@@ -172,3 +172,31 @@ hr {
     max-width: 100%;
   }
 }
+
+/* Styles for carousel and grid */
+/* Carousel container styles */
+.carousel-container {
+  padding: 20px;
+  margin-bottom: 20px;
+  overflow: hidden; /* Prevent horizontal scroll */
+  position: relative; /* Required for swipeable carousel */
+}
+
+/* Swipeable carousel styles */
+.carousel-inner {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory; /* Enable snap points */
+  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  margin-right: 20px; /* Add margin between grid items */
+  scroll-snap-align: start; /* Snap items to start of container */
+}
+
+/* Hide scrollbar */
+.carousel-inner::-webkit-scrollbar {
+  display: none;
+}
